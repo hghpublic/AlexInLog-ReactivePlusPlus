@@ -10,8 +10,8 @@ cmake-build-*/
 prefix/
 CMakeLists.txt.user
 CMakeUserPresets.json
-*.code-workspace
-*.workspace
+# *.code-workspace
+# *.workspace
 
 gen_docs/
 gen_images/
