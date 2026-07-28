@@ -11,6 +11,10 @@
 add_subdirectory(rpp)
 add_subdirectory(extensions)
 
+# set(RPP_BUILD_BENCHMARKS ON)
+# set(RPP_BUILD_TESTS ON)
+set(RPP_BUILD_EXAMPLES ON)
+
 if (RPP_BUILD_BENCHMARKS)
     add_subdirectory(benchmarks)
 endif()
