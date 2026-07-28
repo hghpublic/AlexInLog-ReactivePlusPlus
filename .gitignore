@@ -15,3 +15,9 @@ CMakeUserPresets.json
 
 gen_docs/
 gen_images/
+
+# macos
+.DS_Store
+
+# cmake
+build/
