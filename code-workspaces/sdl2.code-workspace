@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "..",
+			"name": "root"
+		},
+		{
+			"path": "../src/sdl2/hello",
+			"name": "sdl2/hello"
+		},
+		{
+			"path": "../src/sdl2/key",
+			"name": "sdl2/key"
+		},
+		{
+			"path": "../src/sdl2/lightsout",
+			"name": "sdl2/lightsout"
+		},
+		{
+			"path": "../src/sdl2/mouse",
+			"name": "sdl2/mouse"
+		},
+		{
+			"path": "../src/sdl2/mt",
+			"name": "sdl2/mt"
+		},
+		{
+			"path": "../src/sdl2/render",
+			"name": "sdl2/render"
+		},
+		{
+			"path": "../src/sdl2/window",
+			"name": "sdl2/window"
+		}
+	]
+	}
+}

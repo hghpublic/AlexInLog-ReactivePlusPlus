@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "..",
+			"name": "root"
+		},
+		{
+			"path": "../src/sfml/hello",
+			"name": "sfml/hello"
+		},
+		{
+			"path": "../src/sfml/sfml/start-linux",
+			"name": "sfml/sfml/start-linux"
+		},
+		{
+			"path": "../src/sfml/sfml/window-opengl",
+			"name": "sfml/sfml/window-opengl"
+		}
+	]
+}
